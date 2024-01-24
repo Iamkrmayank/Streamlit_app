@@ -1,10 +1,7 @@
 import streamlit as st
 import openai
-
-pip install streamlit
-
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Streamlit app title
 st.title("GPT-3.5 Turbo Chatbot")
