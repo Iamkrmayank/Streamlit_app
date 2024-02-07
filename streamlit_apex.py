@@ -8,10 +8,12 @@ algorithm_images = {
     'Extra Trees':'/Users/kumarmayank/Desktop/SL/ET.png',
     'Gradient Boosting':'/Users/kumarmayank/Desktop/SL/GB.png',
     'K Nearest Neigbour':'/Users/kumarmayank/Desktop/SL/Knn.png',
-    'Mean Model':'/Users/kumarmayank/Desktop/SL/Mean.png',
-    'Median Model':'/Users/kumarmayank/Desktop/SL/Median.png',
+    'Simple Mean Model':'/Users/kumarmayank/Desktop/SL/Mean.png',
+    'Simple Median Model':'/Users/kumarmayank/Desktop/SL/Median.png',
     'XgBoost':'/Users/kumarmayank/Desktop/SL/Xgboost.png',
-    'HistGBM':'/Users/kumarmayank/Desktop/SL/HistGBM.png'
+    'HistGBM':'/Users/kumarmayank/Desktop/SL/HistGBM.png',
+    'LightGBM':'/Users/kumarmayank/Desktop/SL/LightBGM.png',
+    'ARIMA Time Series':'/Users/kumarmayank/Desktop/SL/ARIMA.png'
     # Add more algorithms as needed
 }
 
